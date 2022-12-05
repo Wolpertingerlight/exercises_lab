@@ -9,13 +9,13 @@ import static Exercise_8.Test8.testExercise8;
 
 public class Main {
     public static void main(String[] args) {
-        testExercise1();
-        testExercise2();
+//        testExercise1();
+//        testExercise2();
         testExercise3();
-        testExercise4();
-        testExercise5();
-        testExercise6();
-        testExercise7();
-        testExercise8();
+//        testExercise4();
+//        testExercise5();
+//        testExercise6();
+//        testExercise7();
+//        testExercise8();
     }
 }
